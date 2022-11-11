@@ -1,6 +1,6 @@
 # Vagrant docker-compose template
 
-Since docker is not competable with some IT-security precautions it becomes necessary to run containerized applications
+Since docker is not compatible with some IT-security precautions it becomes necessary to run containerized applications
 in closed vitrual environment (even if that may sound a bit strange).
 
 Because the offical vagrant-plugin for docker-compose only supports docker-compose v1, i created this template
